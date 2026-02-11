@@ -47,3 +47,13 @@ cd enzyme-kinetics-analysis
 
 # Run the analysis script
 python analysis.py
+```
+
+---
+
+## 📬 Contact / Author
+* **Author:** Yoshiharu Naito
+* **Background:** Interdisciplinary Science (Neuroscience, Biochemistry, Polymer/Physical Chemistry, Bio-Engineering, & Bioinformatics).
+* **Focus:** Bridging wet-lab Instrumental Analysis with computational tools to derive kinetic paraeters.
+
+> **Note:** This project serves as a portfolio piece demonstrating interdisciplinary expertise across Physical Chemistry, Life Sciences, and Computer Science.
